@@ -23,3 +23,7 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 - [Lab: Build a Checkout Page](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Accessibility/Build%20a%20Checkout%20Page)
 - [Lab: Design a Movie Review Page](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Accessibility/Design%20a%20Movie%20Review%20Page)
 - [Lab: Build a Multimedia Player](https://github.com/TurkishDelightCo/full-stack-developer/tree/main/HTML/Accessibility/Build%20a%20Multimedia%20Player)
+
+## CSS
+### 1. Basic CSS
+ - [Design Cafe Menu](https://github.com/turkishdelightmu/full-stack-developer/tree/main/CSS/Design%20Cafe%20Menu)
