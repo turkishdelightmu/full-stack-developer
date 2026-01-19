@@ -27,3 +27,4 @@ The course provided by Freecodecamp guides you to becoming a Certified Full Stac
 ## CSS
 ### 1. Basic CSS
  - [Design Cafe Menu](https://github.com/turkishdelightmu/full-stack-developer/tree/main/CSS/Design%20Cafe%20Menu)
+ - [Design Business Card](https://github.com/turkishdelightmu/full-stack-developer/tree/main/CSS/Business%20Card)
